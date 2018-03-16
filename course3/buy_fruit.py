@@ -1,4 +1,4 @@
-from apple import  purchase
+from apple import purchase
 
 if __name__ == "__main__":
     balance = 40
