@@ -2,6 +2,10 @@ a=3
 b=4
 c=5
 
+
+
+
+
 y=10
 # for  y accuracy 0.1%,  find x
 
